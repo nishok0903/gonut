@@ -1,2 +1,2 @@
 # gonut
- A simple endless runner game with a donut as a main character!
+ A simple endless runner game with a donut as the main character!
