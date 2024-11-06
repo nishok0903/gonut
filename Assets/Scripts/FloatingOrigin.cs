@@ -1,10 +1,4 @@
-﻿// FloatingOrigin.cs
-// Written by Peter Stirling
-// 11 November 2010
-// Uploaded to Unify Community Wiki on 11 November 2010
-// Updated to Unity 5.x particle system by Tony Lovell 14 January, 2016
-// fix to ensure ALL particles get moved by Tony Lovell 8 September, 2016
-// URL: http://wiki.unity3d.com/index.php/Floating_Origin
+
 using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
